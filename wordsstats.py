@@ -13,4 +13,4 @@ for word in array:
             dict_char[word[i]]+=1
         else:
             dict_char[word[i]] = 1
-print(dict_char)
+#print(dict_char)
